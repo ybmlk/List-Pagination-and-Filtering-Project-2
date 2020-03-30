@@ -1,3 +1,5 @@
+'use strict';
+
 const studentList = document.getElementsByClassName('student-item cf');
 const pageDiv = document.querySelector('.page');
 // number of items listed per page
